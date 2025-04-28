@@ -1,0 +1,1287 @@
+[
+  {
+    "question": "¿Cuál es la capital de Francia?",
+    "options": [
+      "Madrid",
+      "París",
+      "Berlín",
+      "Roma"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién escribió 'Cien años de soledad'?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Julio Cortázar",
+      "Pablo Neruda"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el resultado de 9 x 7?",
+    "options": [
+      "56",
+      "63",
+      "72",
+      "49"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿En qué año llegó el hombre a la Luna?",
+    "options": [
+      "1965",
+      "1969",
+      "1972",
+      "1959"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El agua hierve a 100°C al nivel del mar.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La Gran Muralla China es visible desde la Luna.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El ser humano tiene cinco sentidos principales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La fotosíntesis ocurre en los animales.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el océano más grande del mundo?",
+    "options": [
+      "Atlántico",
+      "Índico",
+      "Pacífico",
+      "Ártico"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Quién pintó la Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el país más poblado del mundo?",
+    "options": [
+      "India",
+      "Estados Unidos",
+      "China",
+      "Brasil"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué continente se encuentra Egipto?",
+    "options": [
+      "Asia",
+      "África",
+      "Europa",
+      "Oceanía"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el metal cuyo símbolo químico es Au?",
+    "options": [
+      "Plata",
+      "Oro",
+      "Cobre",
+      "Aluminio"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El Sol es una estrella.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La penicilina fue descubierta por Alexander Fleming.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "El Everest es la montaña más alta del mundo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La capital de Australia es Sídney.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el idioma más hablado en el mundo?",
+    "options": [
+      "Inglés",
+      "Chino mandarín",
+      "Español",
+      "Árabe"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué planeta es conocido como el planeta rojo?",
+    "options": [
+      "Venus",
+      "Marte",
+      "Júpiter",
+      "Saturno"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "options": [
+      "Miguel de Cervantes",
+      "Federico García Lorca",
+      "Lope de Vega",
+      "Francisco de Quevedo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es la fórmula química del agua?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué país se encuentra la Torre Eiffel?",
+    "options": [
+      "Italia",
+      "Francia",
+      "España",
+      "Alemania"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "La Tierra tiene dos lunas.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El delfín es un mamífero.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La Gran Pirámide de Giza está en México.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El polo norte geográfico está cubierto de hielo todo el año.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el animal terrestre más grande?",
+    "options": [
+      "Elefante africano",
+      "Jirafa",
+      "Rinoceronte",
+      "Hipopótamo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué instrumento mide la temperatura?",
+    "options": [
+      "Barómetro",
+      "Termómetro",
+      "Higrómetro",
+      "Anemómetro"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es la capital de Canadá?",
+    "options": [
+      "Toronto",
+      "Ottawa",
+      "Vancouver",
+      "Montreal"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué gas es esencial para la respiración humana?",
+    "options": [
+      "Oxígeno",
+      "Nitrógeno",
+      "Dióxido de carbono",
+      "Hidrógeno"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Quién fue el primer presidente de Estados Unidos?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el río más largo del mundo?",
+    "options": [
+      "Nilo",
+      "Amazonas",
+      "Yangtsé",
+      "Misisipi"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿En qué país se encuentra el Taj Mahal?",
+    "options": [
+      "India",
+      "Pakistán",
+      "Bangladés",
+      "Nepal"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La muralla china fue construida para protegerse de invasiones.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "El plomo es más ligero que el aluminio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "La Antártida es un desierto.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "El ajedrez se juega con 16 piezas por jugador.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el símbolo químico del sodio?",
+    "options": [
+      "Na",
+      "So",
+      "S",
+      "Sn"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué país ganó el Mundial de Fútbol en 2014?",
+    "options": [
+      "Argentina",
+      "Alemania",
+      "Brasil",
+      "España"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el animal más rápido del mundo?",
+    "options": [
+      "Leopardo",
+      "Guepardo",
+      "Águila",
+      "Tiburón"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+    "options": [
+      "1939",
+      "1945",
+      "1914",
+      "1929"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el principal ingrediente del guacamole?",
+    "options": [
+      "Tomate",
+      "Aguacate",
+      "Cebolla",
+      "Limón"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El diamante es el material natural más duro conocido.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "El tiburón es un mamífero.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "La capital de Japón es Tokio.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "El desierto del Sahara está en Sudamérica.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el planeta más grande del sistema solar?",
+    "options": [
+      "Saturno",
+      "Júpiter",
+      "Neptuno",
+      "Urano"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué instrumento se usa para medir la presión atmosférica?",
+    "options": [
+      "Barómetro",
+      "Termómetro",
+      "Higrómetro",
+      "Anemómetro"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Quién pintó 'La noche estrellada'?",
+    "options": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Salvador Dalí",
+      "Edvard Munch"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el país más grande del mundo en superficie?",
+    "options": [
+      "Canadá",
+      "Estados Unidos",
+      "China",
+      "Rusia"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "¿Qué órgano del cuerpo humano bombea la sangre?",
+    "options": [
+      "Pulmón",
+      "Hígado",
+      "Corazón",
+      "Riñón"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿En qué continente está Brasil?",
+    "options": [
+      "África",
+      "Asia",
+      "Europa",
+      "América"
+    ],
+    "answer": 3
+  },
+  {
+    "type": "truefalse",
+    "question": "El oro es un metal precioso.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "La Mona Lisa está en el Museo del Prado.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "type": "truefalse",
+    "question": "El koala es originario de Australia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 0
+  },
+  {
+    "type": "truefalse",
+    "question": "El Everest está en África.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién fue el inventor de la bombilla eléctrica?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Isaac Newton"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+    "options": [
+      "1896",
+      "1900",
+      "1888",
+      "1924"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es el elemento químico con símbolo Fe?",
+    "options": [
+      "Hierro",
+      "Flúor",
+      "Francio",
+      "Fósforo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué país es conocido como la cuna del fútbol?",
+    "options": [
+      "Brasil",
+      "Inglaterra",
+      "Alemania",
+      "Italia"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Quién desarrolló la teoría de la relatividad?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Marie Curie"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el navegador web desarrollado por Google?",
+    "options": [
+      "Firefox",
+      "Safari",
+      "Chrome",
+      "Edge"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿En qué continente se encuentra el desierto del Sahara?",
+    "options": [
+      "Asia",
+      "África",
+      "Oceanía",
+      "Europa"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Qué científico propuso las leyes del movimiento?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Charles Darwin"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "¿Cuál es el país con más Copas del Mundo de fútbol ganadas?",
+    "options": [
+      "Alemania",
+      "Italia",
+      "Brasil",
+      "Argentina"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "¿Qué invento revolucionó la comunicación en el siglo XIX?",
+    "options": [
+      "El teléfono",
+      "La radio",
+      "La televisión",
+      "El internet"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es la fórmula química del ácido sulfúrico?",
+    "options": [
+      "H2SO4",
+      "HCl",
+      "NaOH",
+      "CO2"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+    "options": [
+      "1776",
+      "1492",
+      "1812",
+      "1620"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Quién ganó el Balón de Oro en 2021?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Lionel Messi",
+      "Robert Lewandowski",
+      "Karim Benzema"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el número atómico del oxígeno?",
+    "options": [
+      "6",
+      "8",
+      "16",
+      "12"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué país fue sede de los Juegos Olímpicos en 2008?",
+    "options": [
+      "Grecia",
+      "China",
+      "Australia",
+      "Reino Unido"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Quién inventó el teléfono?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el río más largo de Europa?",
+    "options": [
+      "Danubio",
+      "Volga",
+      "Loira",
+      "Rin"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué científico descubrió la penicilina?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Isaac Newton"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el satélite natural de la Tierra?",
+    "options": [
+      "Luna",
+      "Marte",
+      "Venus",
+      "Io"
+    ],
+    "answer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuántos jugadores hay en un equipo de fútbol?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es el país más pequeño del mundo?",
+    "options": [
+      "Mónaco",
+      "Vaticano",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Qué animal es conocido como el rey de la selva?",
+    "options": [
+      "León",
+      "Tigre",
+      "Elefante",
+      "Gorila"
+    ],
+    "answer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuántos colores tiene el arcoíris?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es el planeta más cercano al Sol?",
+    "options": [
+      "Venus",
+      "Mercurio",
+      "Marte",
+      "Júpiter"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿En qué país nació el tango?",
+    "options": [
+      "España",
+      "Argentina",
+      "México",
+      "Italia"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es el idioma oficial de Brasil?",
+    "options": [
+      "Español",
+      "Portugués",
+      "Francés",
+      "Inglés"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Qué instrumento tiene teclas blancas y negras?",
+    "options": [
+      "Violín",
+      "Piano",
+      "Guitarra",
+      "Flauta"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuántos días tiene un año bisiesto?",
+    "options": [
+      "365",
+      "366",
+      "364",
+      "360"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es el océano que baña las costas de Perú?",
+    "options": [
+      "Atlántico",
+      "Pacífico",
+      "Índico",
+      "Ártico"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Qué gas exhalan los humanos al respirar?",
+    "options": [
+      "Oxígeno",
+      "Dióxido de carbono",
+      "Nitrógeno",
+      "Hidrógeno"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es la moneda oficial de Japón?",
+    "options": [
+      "Yen",
+      "Dólar",
+      "Euro",
+      "Peso"
+    ],
+    "answer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Qué país tiene forma de bota?",
+    "options": [
+      "España",
+      "Italia",
+      "Grecia",
+      "Chile"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es el animal nacional de Australia?",
+    "options": [
+      "Canguro",
+      "Koala",
+      "Emú",
+      "Dingo"
+    ],
+    "answer": 0,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Qué día se celebra la Navidad?",
+    "options": [
+      "24 de diciembre",
+      "25 de diciembre",
+      "31 de diciembre",
+      "6 de enero"
+    ],
+    "answer": 1,
+    "difficulty": "fácil"
+  },
+  {
+    "question": "¿Cuál es el metal más ligero?",
+    "options": [
+      "Aluminio",
+      "Litio",
+      "Plomo",
+      "Hierro"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+    "options": [
+      "Leonardo da Vinci",
+      "Miguel Ángel",
+      "Rafael",
+      "Donatello"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el país más grande de África?",
+    "options": [
+      "Nigeria",
+      "Sudán",
+      "Argelia",
+      "Egipto"
+    ],
+    "answer": 2,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué científico propuso la teoría de la evolución?",
+    "options": [
+      "Isaac Newton",
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el idioma oficial de Egipto?",
+    "options": [
+      "Árabe",
+      "Inglés",
+      "Francés",
+      "Hebreo"
+    ],
+    "answer": 0,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿En qué año cayó el Muro de Berlín?",
+    "options": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+    "options": [
+      "Oxígeno",
+      "Silicio",
+      "Hierro",
+      "Aluminio"
+    ],
+    "answer": 0,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué país tiene más islas en el mundo?",
+    "options": [
+      "Filipinas",
+      "Indonesia",
+      "Suecia",
+      "Canadá"
+    ],
+    "answer": 2,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el lago más grande del mundo?",
+    "options": [
+      "Lago Superior",
+      "Lago Victoria",
+      "Lago Baikal",
+      "Mar Caspio"
+    ],
+    "answer": 3,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué escritor creó a Sherlock Holmes?",
+    "options": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Edgar Allan Poe",
+      "Jules Verne"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+    "options": [
+      "Fémur",
+      "Tibia",
+      "Húmero",
+      "Radio"
+    ],
+    "answer": 0,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué país tiene la mayor población musulmana?",
+    "options": [
+      "Arabia Saudita",
+      "Indonesia",
+      "Pakistán",
+      "India"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el desierto más grande del mundo?",
+    "options": [
+      "Sahara",
+      "Antártida",
+      "Gobi",
+      "Kalahari"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Qué ciudad es conocida como la ciudad eterna?",
+    "options": [
+      "Atenas",
+      "Roma",
+      "Jerusalén",
+      "París"
+    ],
+    "answer": 1,
+    "difficulty": "media"
+  },
+  {
+    "question": "¿Cuál es el país más joven del mundo?",
+    "options": [
+      "Kosovo",
+      "Sudán del Sur",
+      "Timor Oriental",
+      "Montenegro"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué elemento químico tiene el número atómico 79?",
+    "options": [
+      "Plata",
+      "Oro",
+      "Platino",
+      "Mercurio"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es la capital de Mongolia?",
+    "options": [
+      "Astana",
+      "Ulán Bator",
+      "Bakú",
+      "Dusambé"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿En qué año se fundó la ONU?",
+    "options": [
+      "1919",
+      "1945",
+      "1950",
+      "1939"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué país no tiene ejército?",
+    "options": [
+      "Costa Rica",
+      "Suiza",
+      "Noruega",
+      "Irlanda"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el país más montañoso del mundo?",
+    "options": [
+      "Nepal",
+      "Suiza",
+      "Bután",
+      "Chile"
+    ],
+    "answer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué científico ganó dos premios Nobel en distintas disciplinas?",
+    "options": [
+      "Marie Curie",
+      "Linus Pauling",
+      "Albert Einstein",
+      "Richard Feynman"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el idioma más antiguo aún hablado?",
+    "options": [
+      "Hebreo",
+      "Chino",
+      "Griego",
+      "Tamil"
+    ],
+    "answer": 3,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué país tiene la mayor reserva de petróleo?",
+    "options": [
+      "Arabia Saudita",
+      "Venezuela",
+      "Irán",
+      "Rusia"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el río más caudaloso del mundo?",
+    "options": [
+      "Nilo",
+      "Amazonas",
+      "Yangtsé",
+      "Misisipi"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué ciudad tiene el mayor número de rascacielos?",
+    "options": [
+      "Dubái",
+      "Hong Kong",
+      "Nueva York",
+      "Shanghái"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el país más densamente poblado?",
+    "options": [
+      "Bangladés",
+      "Singapur",
+      "Mónaco",
+      "Malta"
+    ],
+    "answer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+    "options": [
+      "Indonesia",
+      "Japón",
+      "Estados Unidos",
+      "Chile"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el lago más profundo del mundo?",
+    "options": [
+      "Lago Superior",
+      "Lago Baikal",
+      "Lago Tanganica",
+      "Lago Victoria"
+    ],
+    "answer": 1,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué país tiene la mayor extensión de bosques?",
+    "options": [
+      "Canadá",
+      "Brasil",
+      "Rusia",
+      "Estados Unidos"
+    ],
+    "answer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el punto más bajo de la Tierra?",
+    "options": [
+      "Mar Muerto",
+      "Gran Cañón",
+      "Fosa de las Marianas",
+      "Valle de la Muerte"
+    ],
+    "answer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué país tiene la mayor producción de café?",
+    "options": [
+      "Colombia",
+      "Vietnam",
+      "Brasil",
+      "Etiopía"
+    ],
+    "answer": 2,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el país más antiguo del mundo?",
+    "options": [
+      "China",
+      "Irán",
+      "Egipto",
+      "San Marino"
+    ],
+    "answer": 3,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué ciudad es conocida como la ciudad de los canales?",
+    "options": [
+      "Venecia",
+      "Ámsterdam",
+      "San Petersburgo",
+      "Estocolmo"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Cuál es el país con más lenguas oficiales?",
+    "options": [
+      "Sudáfrica",
+      "India",
+      "Suiza",
+      "Bélgica"
+    ],
+    "answer": 0,
+    "difficulty": "difícil"
+  },
+  {
+    "question": "¿Qué país tiene la mayor cantidad de premios Nobel de la Paz?",
+    "options": [
+      "Estados Unidos",
+      "Suiza",
+      "Noruega",
+      "Francia"
+    ],
+    "answer": 2,
+    "difficulty": "difícil"
+  }
+]

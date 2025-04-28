@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicación de Cuestionario</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="5726308.png">
+</head>
+
+<body>
+    <div id="login-modal" class="modal-nombre">
+        <div class="modal-nombre-content">
+            <div class="login-icon">🔒</div>
+            <h3>Iniciar sesión</h3>
+            <input id="login-usuario" type="text" maxlength="20" placeholder="Usuario" autofocus />
+            <input id="login-pass" type="password" maxlength="20" placeholder="Contraseña" />
+            <button id="login-btn" class="retry-btn" type="button">Entrar</button>
+            <button id="register-btn" class="retry-btn" type="button">Registrarse</button>
+        </div>
+    </div>
+    <div class="quiz-container hidden">
+        <div class="top-bar">
+            <button id="dark-mode-btn" class="top-btn" type="button">🌙 Modo oscuro</button>
+            <button id="ranking-btn" class="top-btn" type="button">🏆 Ranking</button>
+            <button id="profile-btn" class="top-btn" type="button">👤 Perfil</button>
+            <button id="logout-btn" class="top-btn hidden" type="button">Cerrar sesión</button>
+            <button id="admin-panel-btn" class="top-btn hidden" type="button">⚙️ Admin</button>
+        </div>
+        <h1>Prueba de Conocimientos</h1>
+        <p id="quiz-details">Pon a prueba tus conocimientos con este cuestionario de opción múltiple. Tienes 1 minuto
+            por pregunta.</p>
+        <button id="start-btn" type="button">Iniciar</button>
+        <div id="quiz-card" class="hidden"></div>
+        <div id="results" class="hidden"></div>
+        <div id="ranking-section" class="hidden">
+            <h2>Ranking de mejores puntuaciones</h2>
+            <ol id="ranking-list"></ol>
+        </div>
+    </div>
+    <div id="profile-modal" class="modal-nombre hidden">
+        <div class="modal-nombre-content">
+            <span id="close-profile-modal" style="float:right;cursor:pointer;font-size:20px;">&times;</span>
+            <h3>Editar perfil</h3>
+            <div id="profile-image-preview" class="round-40"></div>
+            <input type="file" id="profile-photo" accept="image/*" style="margin: 10px 0;">
+            <input id="profile-name" type="text" maxlength="20" placeholder="Nuevo nombre"
+                style="width:100%;margin-bottom:10px;" />
+            <div class="custom-select-wrapper" style="width:100%;margin-bottom:10px;">
+                <select id="profile-flag" class="custom-select">
+                    <option value="">Selecciona tu país</option>
+                    <option value="🇦🇷">🇦🇷 Argentina</option>
+                    <option value="🇧🇷">🇧🇷 Brasil</option>
+                    <option value="🇨🇱">🇨🇱 Chile</option>
+                    <option value="🇨🇴">🇨🇴 Colombia</option>
+                    <option value="🇪🇸">🇪🇸 España</option>
+                    <option value="🇲🇽">🇲🇽 México</option>
+                    <option value="🇵🇪">🇵🇪 Perú</option>
+                    <option value="🇺🇾">🇺🇾 Uruguay</option>
+                    <option value="🇻🇪">🇻🇪 Venezuela</option>
+                    <option value="🇺🇸">🇺🇸 Estados Unidos</option>
+                    <option value="🇫🇷">🇫🇷 Francia</option>
+                    <option value="🇩🇪">🇩🇪 Alemania</option>
+                    <option value="🇮🇹">🇮🇹 Italia</option>
+                    <option value="🇬🇧">🇬🇧 Reino Unido</option>
+                    <option value="🇯🇵">🇯🇵 Japón</option>
+                    <option value="🇨🇳">🇨🇳 China</option>
+                    <option value="🇷🇺">🇷🇺 Rusia</option>
+                    <option value="🇮🇳">🇮🇳 India</option>
+                    <option value="🇨🇦">🇨🇦 Canadá</option>
+                    <option value="🇵🇹">🇵🇹 Portugal</option>
+                </select>
+            </div>
+            <button id="save-profile-btn" class="retry-btn" type="button">Guardar cambios</button>
+        </div>
+    </div>
+    <div id="admin-panel-modal" class="modal-nombre hidden">
+        <div class="modal-nombre-content" style="min-width:350px;max-width:98vw;">
+            <span id="close-admin-panel" style="float:right;cursor:pointer;font-size:20px;">&times;</span>
+            <h3>Panel de Administración</h3>
+            <div id="admin-users-list"></div>
+            <button id="admin-force-reset" class="retry-btn" type="button" style="margin-top:15px;">Forzar reinicio de
+                ranking</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
